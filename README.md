@@ -9,21 +9,18 @@
 
 ---
 
-## 🚀 About Me
+---
 
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate about Software Development and Problem Solving
-
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Java
-- Python
-- Cloud Computing
-- Web Development
-
-🎯 Goal:
-To become a skilled Software Engineer and contribute to impactful projects.
+## 🚀 About Me 
+🎓 B.Tech Computer Science Engineering Student  
+💻 Passionate about Software Development and Problem Solving  
+🌱 Currently Learning:  
+- Data Structures & Algorithms  
+- Java  
+- Python  
+- Cloud Computing  
+- Web Development  
+🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects.
 
 ---
 
@@ -37,6 +34,7 @@ To become a skilled Software Engineer and contribute to impactful projects.
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,6 +44,7 @@ To become a skilled Software Engineer and contribute to impactful projects.
 ---
 
 ## 📈 GitHub Stats
+[![Profile Views](https://komarev.com/ghpvc/?username=2007saurabh&color=blue&style=flat-square)](https://github.com/2007saurabh/2007saurabh)
 
 ![](https://github-readme-stats.vercel.app/api?username=2007saurabh&show_icons=true)
 
@@ -54,18 +53,17 @@ To become a skilled Software Engineer and contribute to impactful projects.
 ---
 
 ## 🔥 LeetCode
-
 - Username: **2007saurabh**
 - Solving DSA and Competitive Programming Problems
 
 ---
 
 ## 📫 Connect With Me
-
 - GitHub: https://github.com/2007saurabh
 - LinkedIn: https://www.linkedin.com/in/saurabh-yadav-7658472a5/
 - LeetCode: https://leetcode.com/u/2007saurabh/
+- Codolio : https://codolio.com/profile/2007saurabh
 
 ---
 
-⭐ "Consistency beats intensity."
+⭐ *"Consistency beats intensity."*
